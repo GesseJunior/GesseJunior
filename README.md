@@ -1,4 +1,5 @@
 - 👋 Hi, I’m  Gessé Alves
 - 👀 Estudando para ser Desenvolvedor
 - 🌱 I’m currently learning  HTML5 e CSS3
-- 📫 How to reach me  gesse.juniorjpg@gmail.com
+- 📫 How to reach me   gesse.juniorjpg@gmail.com
+- 
